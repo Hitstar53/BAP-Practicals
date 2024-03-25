@@ -6,6 +6,11 @@ __pycache__/
 # C extensions
 *.so
 
+# ignore enron.csv file in Datasets folder
+Datasets/enron.csv
+Datasets/cleaned_enron.csv
+Datasets/enron_chunk.csv
+
 # Distribution / packaging
 .Python
 build/
