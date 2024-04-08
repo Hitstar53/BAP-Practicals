@@ -11,6 +11,9 @@ Datasets/enron.csv
 Datasets/cleaned_enron.csv
 Datasets/enron_chunk.csv
 
+# ignore trial.ipynb file in Exp9
+Exp9/trial.ipynb
+
 # Distribution / packaging
 .Python
 build/
