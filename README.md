@@ -1,1 +1,1 @@
-# Business Analytics with Python
+# Business Analytics with Python Course SPIT
